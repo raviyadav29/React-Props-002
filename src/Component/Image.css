@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+    color: white;
+    display: flex;
+    box-shadow: 0 0 10px black;
+    margin-top: 20px;
+    width: 700px;
+    margin-left: 25%;
+}
+img{
+    width: 200px;
+    height: 210px;
+}
